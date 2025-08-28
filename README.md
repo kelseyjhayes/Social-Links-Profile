@@ -1,4 +1,4 @@
-# Frontend Mentor - Social links profile solution
+# Frontend Mentor - Social Links Profile Solution
 
 ## Table of contents
 
