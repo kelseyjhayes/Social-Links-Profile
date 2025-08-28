@@ -46,5 +46,3 @@ The initial development of this design was relatively straightforward. It was go
 ### Continued development
 
 Something I'd like to continue working on is my understanding of responsive positioning, particularly for smaller sized screens. I'm able position elements on desktop screens well, but I run into issues when the screen size is smaller than the size of the element (e.g. if the length of a phone is smaller than the length of a container element).
-
-Test
